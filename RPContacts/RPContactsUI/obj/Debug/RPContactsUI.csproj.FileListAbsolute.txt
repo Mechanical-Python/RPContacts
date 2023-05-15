@@ -1,0 +1,10 @@
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe.config
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.pdb
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csprojResolveAssemblyReference.cache
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form1.resources
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Properties.Resources.resources
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.GenerateResource.Cache
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.exe
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.pdb
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form2.resources
