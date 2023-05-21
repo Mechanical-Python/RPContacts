@@ -1,0 +1,13 @@
+CREATE PROCEDURE [dbo].[Delete_Contact_By_ID]
+	@ID int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	delete from dbo.Contacts where ID = @ID
+END
+
+GO

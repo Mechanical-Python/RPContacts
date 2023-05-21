@@ -1,0 +1,14 @@
+CREATE PROCEDURE [dbo].[Insert_Contact]
+	@Name nvarchar(50),
+	@Job nvarchar(50),
+	@Email nvarchar(50)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	insert into Contacts values (@Name, @Job, @Email)
+END
+GO

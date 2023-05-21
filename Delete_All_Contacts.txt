@@ -1,0 +1,12 @@
+CREATE PROCEDURE [dbo].[Delete_All_Contacts]
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+
+	DELETE FROM Contacts
+
+END
+
+ 
+GO

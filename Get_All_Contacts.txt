@@ -1,0 +1,11 @@
+CREATE PROCEDURE [dbo].[Get_All_Contacts]
+
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+
+	SELECT * FROM [dbo].[Contacts] 
+
+END
+GO
