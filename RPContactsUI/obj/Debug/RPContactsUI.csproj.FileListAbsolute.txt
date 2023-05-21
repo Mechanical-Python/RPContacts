@@ -1,0 +1,39 @@
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe.config
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.pdb
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csprojResolveAssemblyReference.cache
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form1.resources
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Properties.Resources.resources
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.GenerateResource.Cache
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.exe
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.pdb
+c:\users\machine_win\documents\visual studio 2015\Projects\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form2.resources
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe.config
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.pdb
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.AssemblyReference.cache
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form1.resources
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form2.resources
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Properties.Resources.resources
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.GenerateResource.cache
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.CoreCompileInputs.cache
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.exe
+C:\Users\machine\Source\Repos\RPContacts\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.pdb
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe.config
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.exe
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\RPContactsUI.pdb
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.AssemblyReference.cache
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form1.resources
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Form2.resources
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.Properties.Resources.resources
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.GenerateResource.cache
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.CoreCompileInputs.cache
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.exe
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.pdb
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\ContactsClassLibrary.dll
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\Dapper.dll
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\ContactsClassLibrary.pdb
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\bin\Debug\Dapper.xml
+C:\Users\machine\source\repos\RPContacts\RPContactsUI\obj\Debug\RPContactsUI.csproj.CopyComplete

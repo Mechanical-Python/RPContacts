@@ -1,0 +1,9 @@
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\bin\Debug\ContactsClassLibrary.dll
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\bin\Debug\ContactsClassLibrary.pdb
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\bin\Debug\Dapper.dll
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\bin\Debug\Dapper.xml
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\obj\Debug\ContactsClassLibrary.csproj.AssemblyReference.cache
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\obj\Debug\ContactsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\obj\Debug\ContactsClassLibrary.csproj.CopyComplete
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\obj\Debug\ContactsClassLibrary.dll
+C:\Users\machine\source\repos\RPContacts\ContactsClassLibrary\obj\Debug\ContactsClassLibrary.pdb
