@@ -136,7 +136,7 @@
             // 
             this.button_OK.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.button_OK.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button_OK.Location = new System.Drawing.Point(182, 3);
+            this.button_OK.Location = new System.Drawing.Point(169, 3);
             this.button_OK.Name = "button_OK";
             this.button_OK.Size = new System.Drawing.Size(75, 23);
             this.button_OK.TabIndex = 1;
@@ -148,7 +148,7 @@
             // 
             this.button_Cancel.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.button_Cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button_Cancel.Location = new System.Drawing.Point(70, 3);
+            this.button_Cancel.Location = new System.Drawing.Point(57, 3);
             this.button_Cancel.Name = "button_Cancel";
             this.button_Cancel.Size = new System.Drawing.Size(75, 23);
             this.button_Cancel.TabIndex = 0;
@@ -164,6 +164,7 @@
             this.Controls.Add(this.panel_OK_Cancel);
             this.Controls.Add(this.panel_Main);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "Form2";
             this.Text = "Add Contact";
             this.panel_Main.ResumeLayout(false);

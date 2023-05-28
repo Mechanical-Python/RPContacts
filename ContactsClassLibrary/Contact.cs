@@ -17,21 +17,5 @@ namespace ContactsClassLibrary
         {
 
         }
-
-        public Contact(int id, string name, string job, string mail)
-        {
-            ID = id;
-            Name = name;
-            Job = job;
-            Email = mail;
-        }
-        public Contact(string name, string job, string mail)
-        {
-            Name = name;
-            Job = job;
-            Email = mail;
-        }
-
-
     }
 }

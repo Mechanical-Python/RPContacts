@@ -13,7 +13,8 @@ namespace RPContactsUI
 {
     public partial class Form2 : Form
     {
-        static DataAccess db = new DataAccess();
+        static IDataAccess dataAccess = new SQLDataAccess();
+        static ContactService contactService = new ContactService(dataAccess);
         public Form2()
         {
             InitializeComponent();
@@ -27,7 +28,6 @@ namespace RPContactsUI
         public ListView ListViewForm2;
         public ListViewItem listViewItem = null;
         public string[] listViewArray = new string[5];
-        public Random random = new Random();
 
         private void button_Cancel_Click(object sender, EventArgs e)
         {
@@ -39,9 +39,10 @@ namespace RPContactsUI
             
             if (!string.IsNullOrEmpty(textBox_Name.Text) && !string.IsNullOrEmpty(textBox_Job.Text) && !string.IsNullOrEmpty(textBox_Email.Text))
             {
+                Contact newContact = new Contact() { Name = textBox_Name.Text, Job = textBox_Job.Text, Email = textBox_Email.Text };
 
-                db.InsertContact(textBox_Name.Text, textBox_Job.Text, textBox_Email.Text);
-                List<Contact> lastContact = db.GetLastContact();
+                contactService.InsertContact(newContact);
+                List<Contact> lastContact = contactService.GetLastContact();
 
                 int contactsCount = ListViewForm2.Items.Count;
 

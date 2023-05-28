@@ -13,8 +13,9 @@ namespace RPContactsUI
 {
     public partial class Form1 : Form
     {
-        static DataAccess db = new DataAccess();
+        static IDataAccess dataAccess = new SQLDataAccess();
         public static List<Contact> contacts;
+        public static ContactService contactService = new ContactService(dataAccess);
         public Form1()
         {
             InitializeComponent();
@@ -36,7 +37,7 @@ namespace RPContactsUI
                 if (result == DialogResult.OK)
                 {
                     listView1.Items.Clear();
-                    db.DeleteAllContacts();
+                    contactService.DeleteAllContacts();
                 }
                 else
                 {
@@ -70,7 +71,7 @@ namespace RPContactsUI
                 {
                     int.TryParse(eachItem.SubItems[1].Text, out int selectedID);
                     listView1.Items.Remove(eachItem);
-                    db.DeleteContactByID(selectedID);
+                    contactService.DeleteContactByID(selectedID);
                 }
 
                 for (int i = 0; i < listView1.Items.Count; i++)
@@ -89,7 +90,7 @@ namespace RPContactsUI
         public void LoadContacts()
         {
             string[] contactListArray = new string[5];
-            contacts = db.GetAllContacts();
+            contacts = contactService.GetAllContacts();
             for (int i = 0; i < contacts.Count; i++)
             {
                 contactListArray[0] = (i+1).ToString();
